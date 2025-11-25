@@ -8,6 +8,6 @@ Welcome to my personal website! This website is a showcase of my journey as an e
 - **Contact Information**: Find ways to connect with me through email and LinkedIn.
 
 ## How to View:
-To view the website, you can visit it directly on [GitHub Pages](https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/).
+To view the website, you can visit it directly on [GitHub Pages](https://dewmikasenarathna.github.io/Don_Dew_Portfolio/).
 
 Feel free to explore the code in this repository and reach out if you have any questions or ideas for collaboration!
